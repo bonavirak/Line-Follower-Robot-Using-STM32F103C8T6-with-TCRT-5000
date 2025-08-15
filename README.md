@@ -21,8 +21,6 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
    - TB6612FNG motor driver
    - 2x N20 motors (1000 RPM)
    - Power supply (e.g., 11.1V LiPo battery)2. **PCB Assembly**:
-   - Use Gerber files (`[/pcb/gerber/](https://jlcpcb.com/)`) to manufacture PCB.
-   - Connect TCRT5000 to ADC pins (e.g., PA0-PA4), HC-05 to UART (e.g., USART1), TB6612FNG to PWM/GPIO (e.g., PB0-PB3) (see `/docs/pinout.txt`).
 3. **Wiring**:
    - See schematic (`/pcb/schematic.pdf`).
 
