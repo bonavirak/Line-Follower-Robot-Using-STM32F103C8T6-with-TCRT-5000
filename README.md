@@ -1,0 +1,2 @@
+# Line-Follower-Robot-Using-STM32F103C8T6-with-TCRT-5000
+Line Follower Robot powered by STM32F103C8T6 microcontroller, using TCRT5000 5-way sensors for line detection, HC-05 for Bluetooth communication, TB6612FNG motor driver, and N20 motors (1000 RPM). Implements PID control for precise line tracking and feedback. Features case 0 and case 1 logic to navigate predefined map patterns. Winner of Tire-d.
