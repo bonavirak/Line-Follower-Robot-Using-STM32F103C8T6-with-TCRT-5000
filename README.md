@@ -22,7 +22,8 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
    - 2x N20 motors (1000 RPM)
    - Power supply (e.g., 11.1V LiPo battery)
 2. **Wiring**:
-   - See schematic (`LineFollowerrRobot.pdf`).
+   - See schematic (`<img width="1024" height="726" alt="LineFollowerrRobot" src="https://github.com/user-attachments/assets/ba4fb336-5c52-48a2-b102-84f49efb18f7" />
+`).
 
 ### Software
 1. **Requirements**:
