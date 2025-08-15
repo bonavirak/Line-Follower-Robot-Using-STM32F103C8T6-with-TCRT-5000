@@ -35,12 +35,10 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
    - Configure PID in `pid.c` (e.g., Kp=0.5, Ki=0.1, Kd=0.05) for auto mode.
    - Build/flash code to STM32F103C8T6 using ST-Link.
 3. **Auto Mode**:
-   - Adjust TCRT5000 sensitivity via potentiometers.
    - Test Case 0/Case 1 on sample map (`/docs/map_example.png`).
 4. **Manual Mode**:
    - Pair HC-05 with Bluetooth RC app (default PIN: 1234 or 0000).
    - Use app to control motors (forward, backward, left, right).
-   - Debug via serial terminal (9600 baud).
 
 ## Demo
 Watch the robot in action:
