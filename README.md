@@ -20,8 +20,8 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
    - HC-05 Bluetooth module
    - TB6612FNG motor driver
    - 2x N20 motors (1000 RPM)
-   - Power supply (e.g., 11.1V LiPo battery)2. **PCB Assembly**:
-3. **Wiring**:
+   - Power supply (e.g., 11.1V LiPo battery)
+2. **Wiring**:
    - See schematic (`LineFollowerrRobot.pdf`).
 
 ### Software
