@@ -23,7 +23,7 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
    - Power supply (e.g., 11.1V LiPo battery)
 2. **Wiring**:
    - See schematic:
-<img width="1024" height="726" alt="Image" src="https://github.com/user-attachments/assets/1253c004-1a0f-4a2c-8349-c90644fdd002" />
+<img width="2339" height="1654" alt="Image" src="https://github.com/user-attachments/assets/2412f9f5-5756-41ab-bb71-dae4e4280583" />
 
 ### Software
 1. **Requirements**:
