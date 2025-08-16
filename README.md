@@ -52,7 +52,7 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
    - ST-Link/V2 for flashing.
    - Bluetooth RC app (e.g., "Bluetooth RC Controller" on Android) for manual mode.
 2. **Steps**:
-   - Clone: `[git clone https://github.com/bonavirak/STM32F103C8T6-Line-Follower-Robot-TCRT5000.git](https://github.com/bonavirak/Line-Follower-Robot-Using-STM32F103C8T6-with-TCRT-5000.git)`.
+   - Clone: `[git clone https://github.com/bonavirak/STM32F103C8T6-Line-Follower-Robot-TCRT5000.git`.
    - Open `/code/` in STM32CubeIDE.
    - Configure PID in `pid.c` (e.g., Kp=0.5, Ki=0.1, Kd=0.05) for auto mode.
    - Build/flash code to STM32F103C8T6 using ST-Link.
