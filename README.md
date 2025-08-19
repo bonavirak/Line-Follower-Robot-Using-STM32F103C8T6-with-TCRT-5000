@@ -64,8 +64,8 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
 
 ## Demo
 Watch the robot in action:
-- **Video**: [YouTube/Google Drive link showing auto and manual modes]
-- **Images**: [Imgur/Google Drive link with robot, PCB, and app interface]
+- **Video**: [Soon!]
+- **Images**: [Soon!]
 - **Description**: Auto mode uses PID control for line following (Case 0 for straight, Case 1 for turns). Manual mode allows RC car control via Bluetooth app, demonstrated in Line Follwer Robot Competition 2025 winning run.
 
 ## License
