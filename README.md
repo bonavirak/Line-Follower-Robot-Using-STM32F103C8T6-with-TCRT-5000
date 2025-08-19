@@ -24,25 +24,25 @@ This Line Follower Robot, winner of Line Follwer Robot Competition 2025, was des
 2. **Schematic**:
    - See schematic: <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/2412f9f5-5756-41ab-bb71-dae4e4280583" />
 3. **Wiring**:
-- **🔌 Connect TCRT5000 Sensors to STM32**:
+- **Connect TCRT5000 Sensors to STM32**:
   - Pins: **PA0-PA4** 
-- **📡 Link HC-05 TX/RX to STM32**:
-  - USART1: **PA9/PA10** (TX/RX) 📶
-- **⚙️ Attach TB6612FNG PWM/GPIO Pins to STM32**:
-  - PWMA: **PB7** 🚀 (TIM4 CH2)
-  - PWMB: **PB6** 🚀 (TIM4 CH1)
-  - AI1: **PB12** 🔧
-  - AI2: **PB13** 🔧
-  - BI1: **PB14** 🔧
-  - BI2: **PB15** 🔧
-  - STBY: **PB1** ✅
-  - VCC: **3.3V** ⚡
-- **🎮 Add Servo to STM32**:
-  - PWM: **PB4** (TIM3 CH1) 🕹️
-- **🔋 Wire N20 Motors to TB6612FNG Outputs**:
-  - Power: **11.1V LiPo** 💪
-- **📋 Refer to Detailed Pin Assignments**:
-  - Check out the epic diagram! 🕵️‍♂️
+- **Link HC-05 TX/RX to STM32**:
+  - USART1: **PA9/PA10** (TX/RX) 
+- **Attach TB6612FNG PWM/GPIO Pins to STM32**:
+  - PWMA: **PB7**  (TIM4 CH2)
+  - PWMB: **PB6**  (TIM4 CH1)
+  - AI1: **PB12** 
+  - AI2: **PB13** 
+  - BI1: **PB14** 
+  - BI2: **PB15** 
+  - STBY: **PB1** 
+  - VCC: **3.3V** 
+- **Add Servo to STM32**:
+  - PWM: **PB4** (TIM3 CH1) 
+- **Wire N20 Motors to TB6612FNG Outputs**:
+  - Power: **11.1V LiPo** 
+- **Refer to Detailed Pin Assignments**:
+  - Check out the epic diagram! 
    <img width="600" height="500" alt="Pin Assignments" src="https://github.com/user-attachments/assets/fe4a90a4-a5c9-4494-888d-3d386bc1e5b7" />
      
 
